@@ -1,4 +1,4 @@
-# informatica管理者システム  
+# 管理者システム  
 https://greenjackal32.sakura.ne.jp/test/IWT2024_admin/select/adminsLogin_iwt2024.php
 
 ※ログイン時、下記にてログインしてください。  
