@@ -12,7 +12,11 @@ PW：iwt2024xxx
 
 # 概要  
 
-メール一斉送信、QR受付システム、ユーザー情報CSVダウンロード、受講票PDFダウンロード、ユーザー出席情報
+メール一斉送信、QR受付システム、ユーザー情報CSVダウンロード、受講票PDFダウンロード、ユーザー出席情報  
+
+# 用件定義書  
+[スライドを見る]https://docs.google.com/presentation/d/1SWqMEjJ1dMFjOW1_42qNvvvR9Ius7IlZ/edit?usp=sharing&ouid=116548674171660322110&rtpof=true&sd=true
+
 
 # 開発環境・使用言語  
 
