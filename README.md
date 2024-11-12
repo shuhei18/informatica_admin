@@ -15,6 +15,8 @@ PW：iwt2024xxx
 メール一斉送信、QR受付システム、ユーザー情報CSVダウンロード、受講票PDFダウンロード、ユーザー出席情報  
 
 # 用件定義書  
+
+QRコード受付システム  
 [スライドを見る]https://docs.google.com/presentation/d/1SWqMEjJ1dMFjOW1_42qNvvvR9Ius7IlZ/edit?usp=sharing&ouid=116548674171660322110&rtpof=true&sd=true
 
 
