@@ -22,8 +22,7 @@ PW：iwt2024xxx
 
 # 開発環境・使用言語  
 
-MAMP  
-HTML・CSS・Javascript・PHP・MySQL
+HTML・CSS・Javascript・PHP・MySQL・MAMP
 
 # 機能  
 
