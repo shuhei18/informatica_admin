@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1hgUpA5Ji-4z1lgiGkYP1dwdDHz4UyS52/edit?us
 
 # 開発環境・使用言語  
 
-HTML・CSS・Javascript・PHP・MySQL・MAMP
+HTML・CSS・Javascript・PHP・MySQL・MAMP  
 さくらサーバー
 
 # 機能  
